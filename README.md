@@ -4,4 +4,5 @@
 
 ## Attribution
 
-SVG map from http://simplemaps.com/resources/svg-us
+- SVG map from http://simplemaps.com/resources/svg-us
+- Voting data from some newspaper ad I saw that prompted me to do this
