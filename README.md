@@ -1,6 +1,6 @@
 # How US Senators voted on allowing ISPs to sell customer browser history
 
-Thanks for nothing.
+[Thanks for nothing.](https://bcobb.github.io/turbo-giggle/)
 
 ## Attribution
 
